@@ -57,7 +57,7 @@
 6. Completion of any module depends on the number of targets & the module being used. But we'll try our best to keep it in range of *30 minutes to 30 hours*. If it goes beyond that, then you'll be given *free access to Community Edition for a week*.
 7. Only *one domain per module is allowed*.
 8. This project's sole purpose is to *detect & report vulnerabilities before it gets exploited for malicious purposes*. Although this is meant to be used for BBP/VDP but at many times some of the subdomains tends to be explicitly defined as *out-of-scope* by these programs. For example 
-**.cyberoam.com is in scope but *.ddns.cyberoam.com is out-of-scope as per Sophos BBP*. For that purpose we decided that we will *exclude them from the results of Tier2 & Tier3 modules*.
+_*.cyberoam.com is in scope but *.ddns.cyberoam.com is out-of-scope as per Sophos BBP_. For that purpose we decided that we will *exclude them from the results of Tier2 & Tier3 modules*.
 
 [Raise an issue](https://github.com/ARPSyndicate/KaaS/issues) in case of any other queries/issues.<br><br>
 
