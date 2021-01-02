@@ -8,7 +8,7 @@
 | Custom Targets        | NO				| 2					| 3						    |
 | On-demand Modules     | NO				| TIER1 + TIER2		| TIER1 + TIER2 + TIER3     |
 | Concurrent Modules    | NO				| NO				| 2						    |
-| Max Module Requests   | NO				| 3/day 			| 5/day						    |
+| Max Module Requests   | NO				| 3/day 			| 5/day						|
 | Kenzer Templates      | PUBLIC			| PUBLIC+CUSTOM(5)  | PUBLIC+PRIVATE+CUSTOM(10) |
 | Pricing (Monthly)     | $5 or 10 PRs		| $10 or 25 PRs		| $15 or 50 PRs			    |
 
@@ -55,6 +55,9 @@
 4. All *private/custom templates will stay private* at all times & might throw false positives at certain times.
 5. We only *detect if a vulnerability is present* & won't provide any assistance in exploitation at any point of time.
 6. Completion of any module depends on the number of targets & the module being used. But we'll try our best to keep it in range of *30 minutes to 30 hours*. If it goes beyond that, then you'll be given *free access to Community Edition for a week*.
+7. Only *one domain per module is allowed*.
+8. This project's sole purpose is to *detect & report vulnerabilities before it gets exploited for malicious purposes*. Although this is meant to be used for BBP/VDP but at many times some of the subdomains tends to be explicitly defined as *out-of-scope* by these programs. For example 
+**.cyberoam.com is in scope but *.ddns.cyberoam.com is out-of-scope as per Sophos BBP*. For that purpose we decided that we will *exclude them from the results of Tier2 & Tier3 modules*.
 
 [Raise an issue](https://github.com/ARPSyndicate/KaaS/issues) in case of any other queries/issues.<br><br>
 
