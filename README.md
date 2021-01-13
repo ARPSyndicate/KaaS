@@ -18,12 +18,12 @@
 **TIER3** : idscan, vulnscan, portscan, vizscan<br>
 
 ## Kenzer Templates
-**PUBLIC**[563] : cvescan[209], idscan[119], vulnscan[228], subscan[7]<br>
-**PRIVATE**[973] : cvescan[366], idscan[134], vulnscan[466], subscan[7]<br>
+**PUBLIC**[576] : cvescan[212], idscan[124], vulnscan[233], subscan[7]<br>
+**PRIVATE**[1008] : cvescan[370], idscan[160], vulnscan[471], subscan[7]<br>
 
 ## Repositories eligible for PRs
 [cvebase/cvebase.com](https://github.com/cvebase/cvebase.com)<br>
-[jaeles-project/jaeles-sigatures](https://github.com/jaeles-project/jaeles-signatures)<br>
+[jaeles-project/jaeles-signatures](https://github.com/jaeles-project/jaeles-signatures)<br>
 [vulhub/vulhub](https://github.com/vulhub/vulhub)<br>
 [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)<br>
 [python/cpython](https://github.com/python/cpython)<br>
