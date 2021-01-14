@@ -14,12 +14,12 @@
 
 ## Module Tiers
 **TIER1** : subenum, portenum, webenum, asnenum, dnsenum, headenum, favscan, monitor<br>
-**TIER2** : subscan, cvescan, buckscan, cscan, mailenum<br>
+**TIER2** : subscan, cvescan, buckscan, cscan, socscan<br>
 **TIER3** : idscan, vulnscan, portscan, vizscan<br>
 
 ## Kenzer Templates
-**PUBLIC**[576] : cvescan[212], idscan[124], vulnscan[233], subscan[7]<br>
-**PRIVATE**[1008] : cvescan[370], idscan[160], vulnscan[471], subscan[7]<br>
+**PUBLIC**[608] : cvescan[209], idscan[126], vulnscan[266], subscan[7]<br>
+**PRIVATE**[1030] : cvescan[359], idscan[161], vulnscan[503], subscan[7]<br>
 
 ## Repositories eligible for PRs
 [cvebase/cvebase.com](https://github.com/cvebase/cvebase.com)<br>
