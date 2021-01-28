@@ -18,8 +18,8 @@
 **TIER3** : idscan, vulnscan, portscan, vizscan<br>
 
 ## Kenzer Templates
-**PUBLIC**[608] : cvescan[209], idscan[126], vulnscan[266], subscan[7]<br>
-**PRIVATE**[1030] : cvescan[359], idscan[161], vulnscan[503], subscan[7]<br>
+**PUBLIC**[618] : cvescan[209], idscan[128], vulnscan[274], subscan[7]<br>
+**PRIVATE**[1040] : cvescan[359], idscan[163], vulnscan[511], subscan[7]<br>
 
 ## Repositories eligible for PRs
 [cvebase/cvebase.com](https://github.com/cvebase/cvebase.com)<br>
