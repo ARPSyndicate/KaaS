@@ -121,6 +121,7 @@ allegro.pl
 allegrosandbox.pl
 allehorecarookvrij.nl
 allesisgezondheid.nl
+allswellhome.com
 alvd.nl
 am.ru
 amap.com
@@ -136,6 +137,7 @@ amazon.fr
 amazon.in
 ambassadeursconferentie.nl
 ambtelijkvakmanschap.nl
+amigo.com
 amitree.com
 answerforbusiness.nl
 anti-racisme.nl
@@ -153,7 +155,10 @@ arkoselabs.com
 arlingtoncemetery.mil
 arlo.com
 army.mil
+art.com
+asda.com
 asnbank.nl
+aspectiva.com
 aspen.io
 astaro.at
 astaro.ch
@@ -258,10 +263,12 @@ bluetarp.com
 bmw-motorrad.de
 bmw.de
 bnesim.com
+bodegaaurrera.com.mx
 bodemconvenant.nl
 bodemtoetsen.nl
 boetebase.nl
 bolstr.com
+bonobos.com
 bookingholdings.com
 boomi.com
 booth.pm
@@ -387,6 +394,7 @@ cloud.mil
 cloudinary.com
 cloudvisory.com
 cloudways.com
+cmiw.com
 co2reductie.nl
 co2reductieplan.nl
 cobinhood.com
@@ -641,6 +649,7 @@ eidstelsel.nl
 einfachprepaid.de
 eleganthotels.com
 elonext.nl
+eloquii.com
 elvenar.com
 emc.com
 emissieautoriteit.nl
@@ -883,6 +892,7 @@ hadr.mil
 handmade.com
 harmonyremote.com
 harvestapp.com
+hayneedle.com
 hboeck.de
 health.mil
 healthifyme.com
@@ -1112,6 +1122,7 @@ kitcrm.com
 kiwi.ki
 klarna.com
 klimaattop2016.nl
+kobo.com
 koho.app
 koho.ca
 kolikkopelit.com
@@ -1152,6 +1163,7 @@ lhcapitalmanagement.com
 libav.org
 liberapay.com
 liberapay.org
+lider.cl
 lidero.pl
 lieferando.at
 lieferando.de
@@ -1233,6 +1245,7 @@ mariadb.org
 marines.mil
 marriott.com
 masmexa.com
+massmart.co.za
 mastercard-lounge.cz
 mastercard.ch
 mastercard.co.za
@@ -1338,6 +1351,7 @@ monster.se
 monsterboard.nl
 monsterpolska.pl
 mooi-nederland.nl
+moosejaw.com
 mopub.com
 motorcraft.com
 move.mil
@@ -1855,6 +1869,7 @@ ryksoverheid.nl
 salarismix.nl
 salesforce.mil
 sameroom.io
+samsclub.com
 samsung.com
 sanantoniofed.org
 sanfranciscofed.org
@@ -2235,6 +2250,7 @@ uscg.mil
 usejewel.com
 uservoice.com
 usfj.mil
+usps.com
 ustranscom.mil
 uwlast.nl
 vaarweginfo.nl
@@ -2291,6 +2307,11 @@ vroid.com
 vseapteki.ru
 vznkul.be
 waardenennormendebat.nl
+walmart.ca
+walmart.com
+walmartchile.cl
+walmartmedia.com
+walmartmexico.com
 wanbetalerszorgpremie.nl
 wanyol.com
 warriorcare.mil
@@ -2395,6 +2416,7 @@ yelp-support.com
 yelp.com
 yelpreservations.com
 yelpwifi.com
+yhd.com
 yimg.com
 youku.com
 youla.ru
