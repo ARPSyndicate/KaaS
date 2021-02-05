@@ -1,4 +1,4 @@
-# KaaS | Kenzer-as-a-Service
+# KaaS | Kenzer-as-a-Service [DEAD]
 
 [Kenzer](https://github.com/ARPSyndicate/kenzer) is our *opensource automation engine that uses multiple opensource tools for enumerating & scanning web assets* & this project i.e. *KaaS* aims to take it to the next level by *continuous monitoring of those enums & scans through Git repositories* that could be then shared among Bug Bounty Hunters, Web Security Researchers, etc.
 
